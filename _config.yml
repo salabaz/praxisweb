@@ -22,7 +22,7 @@ title: Praxis Braumann
 email: philipp@praxis-braumann.de
 description: >- # this means to ignore newlines until "baseurl:"
   neue Seite
-baseurl: "/praxisweb"   # the subpath of your site, e.g. /blog
+#baseurl: "/praxisweb"   # the subpath of your site, e.g. /blog
 url: "https://salabaz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
