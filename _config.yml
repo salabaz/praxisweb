@@ -29,6 +29,7 @@ github_username:  jekyll
 
 # Build settings
 theme: jekyll-theme-minimal
+remote_theme: zerostaticthemes/jekyll-serif-theme
 plugins:
   - jekyll-feed
 
