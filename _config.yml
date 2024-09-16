@@ -29,8 +29,8 @@ github_username:  jekyll
 
 # Build settings
 # theme: jekyll-theme-minimal
-#remote_theme: "zerostaticthemes/jekyll-serif-theme"
-remote_theme: broccolini/swiss
+remote_theme: "zerostaticthemes/jekyll-serif-theme:gh-pages"
+# remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
